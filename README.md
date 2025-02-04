@@ -75,7 +75,3 @@ Looking for talented developers? Check out these hiring pages:
 - ☕ [Hire Java Developers](https://hng.tech/hire/java-developers)
 - 🔥 [Hire Node.js Developers](https://hng.tech/hire/nodejs-developers)
 
----
-
-🎯 **Follow the project on GitHub:** [masterchief-Dave/hng-12-stage-0](https://github.com/masterchief-Dave/hng-12-stage-0) 🚀
-
